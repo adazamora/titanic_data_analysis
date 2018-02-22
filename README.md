@@ -6,7 +6,7 @@ Statistical analysis of the passengers aboard the Titanic and their survival rat
 To install the requirements on a Python 2.7 conda environment:
 
 ```
-pip install -r requirements.txt
+conda install --file requirements.txt
 ```
 
 To create a new environment that uses the requirements:
