@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+jupyter=1.0.0=py27_3
+matplotlib=2.0.2=np113py27_0
+numpy=1.13.1=py27_0
+pandas=0.20.3=py27_0
