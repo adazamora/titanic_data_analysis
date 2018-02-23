@@ -1,5 +1,8 @@
 # Titanic Data Analysis
-Statistical analysis of the passengers aboard the Titanic and their survival rates according to different factors.
+
+Taking into consideration a sample of 891 of the 2224 passengers of the Titanic, I used Python, Jupyter notebook and pandas to get some statistics about the passengers and survival rates according to different factors.
+
+I did this project as part of the Intro to Data Analysis course, from the Data Analyst Nanodegree I took at Udacity
 
 ## Requisites
 
