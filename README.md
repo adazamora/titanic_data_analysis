@@ -1,7 +1,7 @@
 # Titanic Data Analysis
 Statistical analysis of the passengers aboard the Titanic and their survival rates according to different factors.
 
-## Prerequisites
+## Requisites
 
 To install the requirements on a Python 2.7 conda environment:
 
